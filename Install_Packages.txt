@@ -1,0 +1,9 @@
+h5py
+numpy
+scikit-learn
+sklearn
+keras
+opencv-python
+pyttsx3
+
+(setengah dari gesture yang sudah dikumpulakan)
