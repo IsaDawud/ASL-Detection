@@ -60,6 +60,3 @@ python create_gestures.py
 python cnn_model_train.py
 
 python final.py
-
-```bash
-python create_gestures.py
